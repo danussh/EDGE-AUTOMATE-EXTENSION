@@ -1,0 +1,19 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.14",
+    "archiver": "^7.0.1",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "qs": "^6.12.1"
+  }
+}
